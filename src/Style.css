@@ -1,0 +1,45 @@
+.container{
+    justify-content: center;
+    background-color: peachpuff;
+    height: 400px;
+   /* width: 50px;*/
+    margin-top: 30px;
+    text-align: center;
+    border-radius: 20px;
+    /* margin: auto; */
+
+}
+/* .footer{
+    margin-top: 40px;
+     background-color: white 
+} */
+.btn-danger{
+    color: red;
+}
+.btn2{
+    margin-left: 10px;
+}
+.btn3{
+    margin-left: 10px;
+}
+.add{
+    padding: 40px 0px 40px 0px;
+}
+.title{
+    padding: 14px;
+    margin-left: 40%;
+}
+.form-control:focus{
+    border: 2px solid #333397 !important;
+    box-shadow: none !important;
+}
+.form-control{
+    width: 350px !important;
+    border: 2px solid #333397 !important;
+    padding: 10px !important;
+    padding-left: 35px !important; 
+    margin-left: -30px;
+}
+.les-taches{
+    margin-top: 20px;
+}
